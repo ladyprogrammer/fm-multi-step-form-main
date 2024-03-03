@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+}
+
+.subscription-form {
+    display: flex;
+    flex-direction: column;
+
+    .step {
+        margin: 25px;
+    }
+}
